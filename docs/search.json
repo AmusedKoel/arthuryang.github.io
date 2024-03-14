@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Arthur Yang’s NM2207 Website",
     "section": "",
-    "text": "I’m a freshman majoring in Communications and New Media. I have no prior programming experience and this course, NM2207,has introduced me to the R programming language. The learning curve is steep but I have been enjoying the rigour thus far. If things goes well, I plan to take up a minor in Interactive Media Design. I don’t know if I have the strength to battle NUS’s infamous CS1010, but it is definitely worth a challenge!\n\n\n\n\nAs an aspiring digital marketer, I believe the skills I learn about data analysis, visualisation and web development will be very useful in my future internships. Marketers deal with data and we aim to extract insights to hit our objectives. Visualisations help us to identify these insights, and make the less obvious more clear.\n\n\n\n\nMy project is titled “From Grid to Glory: Data-Driven Insights on Formula 1”. I’m a big fan of F1 ever since watching the hit Netflix series”Drive to Survive”. This projects focuses on analysing past historical data from the years 1950 - 2023. I will be creating visualisations to show which teams and drivers are most dominant through the years. I will also attempt to draw a correlation between the number of race wins and the likelihood of winning the championship.\n\n\n\n\nI am using a dataset which is publicly available on Kaggle. This dataset contains multiple csv files recording the various drivers, races, results and even lap times through the years. This will be crucial in drawing data-driven insights on the trends in F1.\nYou can access the dataset through the link below.\nFormula 1 World Championship 1950-2023 (Kaggle)"
+    "text": "This is a picture I took when I was kayaking in Krabi!\n\n\n\n\n\nI’m a freshman majoring in Communications and New Media. I have no prior programming experience and this course, NM2207,has introduced me to the R programming language. This is also my first time creating a website!\nThe learning curve for this course is steep but I have been enjoying the rigour thus far. If things goes well, I plan to take up a minor in Interactive Media Design. I don’t know if I have the strength to battle NUS’s infamous CS1010, but it is definitely worth a challenge!\n\n\n\n\nI love travelling and experiencing different cultures. I have had many great memories of different places and I feel that travelling helps to grow a sense of empathy for the world around. My plan is to fit in a short vacation every semester break. Maybe I should create a website documenting my travel adventures!\n\n\n\n\nAs an aspiring digital marketer, I believe the skills I learn about data analysis, visualisation and web development will be very useful in my future internships. Marketers deal with data and we aim to extract insights to hit our objectives. Visualisations help us to identify these insights, and make the less obvious more clear."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Arthur Yang’s NM2207 Website",
     "section": "",
-    "text": "I’m a freshman majoring in Communications and New Media. I have no prior programming experience and this course, NM2207,has introduced me to the R programming language. The learning curve is steep but I have been enjoying the rigour thus far. If things goes well, I plan to take up a minor in Interactive Media Design. I don’t know if I have the strength to battle NUS’s infamous CS1010, but it is definitely worth a challenge!"
+    "text": "I’m a freshman majoring in Communications and New Media. I have no prior programming experience and this course, NM2207,has introduced me to the R programming language. This is also my first time creating a website!\nThe learning curve for this course is steep but I have been enjoying the rigour thus far. If things goes well, I plan to take up a minor in Interactive Media Design. I don’t know if I have the strength to battle NUS’s infamous CS1010, but it is definitely worth a challenge!"
   },
   {
     "objectID": "index.html#why-did-i-take-up-nm2207",
@@ -40,5 +40,33 @@
     "title": "About",
     "section": "",
     "text": "hey! this page is still under development!"
+  },
+  {
+    "objectID": "about.html#what-is-my-project-about",
+    "href": "about.html#what-is-my-project-about",
+    "title": "Behind Airbnb Prices: A Spatial Econometric Analysis Across Cities",
+    "section": "What is my project about?",
+    "text": "What is my project about?\n\nI will explore Airbnb pricing using spatial econometrics. My primary goal is to understand how locations of Airbnbs affect pricing. I will also investigate the impact of neighbourhood attractiveness, as measured by attraction indices, on pricing strategies. By employing spatial econometrics, this project will account for the inherent spatial dependence often present in location-based data like Airbnb rentals. This allows for a more robust and nuanced understanding of the price drivers behind Airbnb pricing across cities and neighbourhoods.\nAs an avid traveller myself, the insights drawn can help give me a better understanding of how location and neighbourhood appeal influence pricing."
+  },
+  {
+    "objectID": "about.html#what-dataset-am-i-working-with",
+    "href": "about.html#what-dataset-am-i-working-with",
+    "title": "Behind Airbnb Prices: A Spatial Econometric Analysis Across Cities",
+    "section": "What dataset am I working with?",
+    "text": "What dataset am I working with?\n\nI will be using a dataset which is publicly available on Kaggle. This dataset contains multiple csv files recording the price, location, and TripAdvisor ratings of different Airbnb rentals across multiple European cities.\nYou can access the dataset through the link below.\nAirbnb Prices & TripAdvisor Ratings (Econometrics)"
+  },
+  {
+    "objectID": "about.html#what-questions-will-i-answer",
+    "href": "about.html#what-questions-will-i-answer",
+    "title": "Behind Airbnb Prices: A Spatial Econometric Analysis Across Cities",
+    "section": "What questions will I answer?",
+    "text": "What questions will I answer?\n\n\nHow do the determinants of Airbnb prices differ between cities?\nWhat is the impact of neighborhood attractiveness (as measured by the attraction indices) on pricing?\nAre there significant differences between weekday and weekend pricing strategies?"
+  },
+  {
+    "objectID": "index.html#my-interests",
+    "href": "index.html#my-interests",
+    "title": "Arthur Yang’s NM2207 Website",
+    "section": "",
+    "text": "I love travelling and experiencing different cultures. I have had many great memories of different places and I feel that travelling helps to grow a sense of empathy for the world around. My plan is to fit in a short vacation every semester break. Maybe I should create a website documenting my travel adventures!"
   }
 ]
