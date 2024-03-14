@@ -1,0 +1,33 @@
+---
+title: "Arthur Yang's NM2207 Website"
+---
+
+# Welcome and Hello World!
+
+## About me
+
+------------------------------------------------------------------------
+
+I'm a freshman majoring in Communications and New Media. I have no prior programming experience and this course, `NM2207`,has introduced me to the **R programming** language. The learning curve is steep but I have been enjoying the rigour thus far. If things goes well, I plan to take up a minor in **Interactive Media Design**. I don't know if I have the strength to battle NUS's infamous `CS1010`, but it is definitely worth a challenge!
+
+## Why did I take up NM2207?
+
+------------------------------------------------------------------------
+
+As an aspiring digital marketer, I believe the skills I learn about **data analysis, visualisation and web development** will be very useful in my future internships. Marketers deal with data and we aim to **extract insights** to hit our objectives. Visualisations help us to identify these insights, and make the less obvious more clear.
+
+## What is my project about?
+
+------------------------------------------------------------------------
+
+My project is titled "**From Grid to Glory: Data-Driven Insights on Formula 1"**. I'm a big fan of F1 ever since watching the hit Netflix series "Drive to Survive". This projects focuses on analysing past historical data from the years 1950 - 2023. I will be creating visualisations to show which teams and drivers are most dominant through the years. I will also attempt to draw a correlation between the number of race wins and the likelihood of winning the championship.
+
+## What dataset am I working with?
+
+------------------------------------------------------------------------
+
+I am using a dataset which is publicly available on Kaggle. This dataset contains multiple csv files recording the various drivers, races, results and even lap times through the years. This will be crucial in drawing data-driven insights on the trends in F1.
+
+You can access the dataset through the link below.
+
+[Formula 1 World Championship 1950-2023 (Kaggle)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
